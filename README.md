@@ -52,4 +52,3 @@ This suite serves as a benchmark for implementing the following data operations:
 **Aesha Makrubiya**
 ---
 
-**Would you like me to generate a Python script to automate the "Average Grade" calculations for your student dataset?**
